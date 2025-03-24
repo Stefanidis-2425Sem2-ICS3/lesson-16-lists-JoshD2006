@@ -1,7 +1,7 @@
 # Joshua Dinis
 # Randomly Generated List Assignment
 # March 24th 2025
-# generates a list of 100 variables, and then calculates the average
+# Program generates a list of 100 random numbers, and then calculates the average
 
 import random
 
